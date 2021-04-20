@@ -4,4 +4,4 @@ No Bind Shell a máquina está prestes a ser comprometida pelo atacante que atua
 ao servidor que estava ouvindo , bem como servindo . A razão pela qual o shell também é chamado de shell de "conectar-se" . O cliente se conecta de volta ao servidor que tem o
 vínculo de concha.
 
-#By Lucas A Miranda
+# By Lucas A Miranda
